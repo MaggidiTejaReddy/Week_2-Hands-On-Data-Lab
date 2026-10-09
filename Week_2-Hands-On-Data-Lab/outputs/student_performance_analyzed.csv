@@ -1,0 +1,21 @@
+Student_ID,Gender,Age,Study_Hours,Attendance,Assignments_Score,Midterm_Score,Final_Score,Performance
+S001,Male,20,3.5,85,78,72,75,Good
+S002,Female,21,5.0,92,88,85,89,Good
+S003,Male,19,2.0,68,65,60,62,Average
+S004,Female,20,4.5,88,82,79,84,Good
+S005,Male,22,6.0,95,91,90,93,Excellent
+S006,Female,19,3.0,75,72,68,70,Average
+S007,Male,21,4.0,82,80,76,78,Good
+S008,Female,20,5.5,90,89,87,91,Excellent
+S009,Male,23,1.5,60,55,52,50,Needs Improvement
+S010,Female,21,4.0,86,84,81,85,Good
+S011,Male,20,2.5,70,68,65,67,Average
+S012,Female,22,5.0,94,92,89,92,Excellent
+S013,Male,19,3.5,78,75,73,76,Good
+S014,Female,20,4.5,89,86,84,87,Good
+S015,Male,21,2.0,65,62,58,60,Average
+S016,Female,19,6.0,97,94,92,95,Excellent
+S017,Male,22,3.0,74,70,67,69,Average
+S018,Female,21,4.0,83,81,78,80,Good
+S019,Male,20,5.0,91,87,85,88,Good
+S020,Female,22,2.5,72,69,64,66,Average
